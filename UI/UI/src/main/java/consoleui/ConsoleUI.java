@@ -19,5 +19,4 @@ public class ConsoleUI
         }
     }
 
-    // TODO i should remember to do something here. It's importantn.
 }
