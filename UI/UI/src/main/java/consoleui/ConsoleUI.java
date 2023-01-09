@@ -15,4 +15,8 @@ public class ConsoleUI {
         System.out.println("Running super fast, going nowhere.");
     }
 
+    private void ShowMainMenu(){
+
+    }
+
 }
