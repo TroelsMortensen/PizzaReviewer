@@ -13,6 +13,7 @@ public class ConsoleUI {
 
     public void run() {
         System.out.println("Running super fast, going nowhere.");
+        System.out.println("Lol, making conflicts!!");
     }
 
     private void ShowMainMenu(){
