@@ -12,12 +12,12 @@ public class ConsoleUI {
     }
 
     public void run() {
-        System.out.println("Running super fast, going nowhere.");
-        System.out.println("Lol, making conflicts!!");
+        showMainMenu();
     }
 
-    private void ShowMainMenu(){
-
+    private void showMainMenu(){
+        new MainMenuHandler().showMainMenu();
+        System.out.println("Bye bye");
     }
 
 }
