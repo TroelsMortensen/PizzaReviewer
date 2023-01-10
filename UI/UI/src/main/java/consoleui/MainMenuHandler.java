@@ -20,6 +20,7 @@ public class MainMenuHandler {
 
             switch (optionSelected) {
                 case "1":
+                    System.out.println("You selected option 1");
                     break;
                 case "2":
                     break;
