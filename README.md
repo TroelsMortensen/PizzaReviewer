@@ -1,3 +1,3 @@
 # PizzaReviewer
 
-This repository is used for a video tutorial
+This repository is used for a git intro video tutorial
