@@ -15,6 +15,7 @@ public class ConsoleUI {
         showMainMenu();
     }
 
+
     private void showMainMenu(){
         new MainMenuHandler().showMainMenu();
         System.out.println("Bye bye");
