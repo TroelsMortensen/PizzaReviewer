@@ -10,6 +10,7 @@ public class StartApp {
         DataAccess dataAccess = new JsonDataAccess();
         ConsoleUI ui = new ConsoleUI(dataAccess);
         ui.run();
+        // just a push test.
     }
 
 }
