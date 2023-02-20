@@ -37,6 +37,10 @@ public class MainMenuHandler {
         }
     }
 
+    private void testMethod1(){
+
+    }
+
     private String getInput(BufferedReader reader) {
         String optionSelected;
         try {
