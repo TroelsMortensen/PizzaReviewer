@@ -23,6 +23,7 @@ public class MainMenuHandler {
                     new AddHandler().handle();
                     break;
                 case "2":
+                    new DeleteHandler().handle();
                     break;
                 case "3":
                     break;
