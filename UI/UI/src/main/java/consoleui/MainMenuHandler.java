@@ -20,7 +20,7 @@ public class MainMenuHandler {
 
             switch (optionSelected) {
                 case "1":
-                    //TODO work here.
+                    new AddHandler().handle();
                     break;
                 case "2":
                     break;
