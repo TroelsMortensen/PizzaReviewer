@@ -59,7 +59,7 @@ public class MainMenuHandler {
     private void displayOptions() {
         System.out.println("Main menu:");
         System.out.println("1) Add review");
-        System.out.println("2) Update review");
+        System.out.println("2) Change review");
         System.out.println("3) Remove review");
         System.out.println("4) See reviews");
         System.out.println("<) Exit");
