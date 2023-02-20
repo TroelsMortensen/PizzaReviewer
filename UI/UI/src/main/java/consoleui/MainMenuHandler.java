@@ -52,6 +52,10 @@ public class MainMenuHandler {
         return optionSelected;
     }
 
+    private void testMethod2(){
+
+    }
+
     private void displayOptions() {
         System.out.println("Main menu:");
         System.out.println("1) Add review");
