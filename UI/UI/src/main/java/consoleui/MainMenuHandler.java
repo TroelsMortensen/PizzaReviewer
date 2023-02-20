@@ -23,7 +23,7 @@ public class MainMenuHandler {
                     System.out.println("You selected option 1");
                     break;
                 case "2":
-                    // TODO work here.
+                    new DeleteHandler().handle();
                     break;
                 case "3":
                     break;
